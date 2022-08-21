@@ -41,6 +41,7 @@ There are four options to choose from: "Add Transaction", "Data", "Transfer Inst
 <img src="images/Edit_Data.png" width=500>
 * Here you can update the record by selecting a record and changing the data in the entry boxes and then clicking the update record button. <br />
 * If you want to delete the record instead, then click on the delete record button (only deletes one at a time). <br />
+* TF means Transfered from, TT means Transfered To, A means acquired (bought), and D means disposed (sold). <br />
 
 <br />
 <img src="images/Institutions_Held.png" width=500>
