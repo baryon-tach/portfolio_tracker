@@ -1,9 +1,13 @@
 # Basic Portfolio Tracker
-python (tkinter) | sqlite3
+python (tkinter, re, pillow) | sqlite3
 
 ### Main Menu
 
 <img src="images/Main_Menu.png" width=500>
+
+To run: python3 main.py <br />
+* If it does not work please check if you have all of the python packages installed. <br />
+<br />
 
 There are four options to choose from: "Add Transaction", "Data", "Transfer Institution", "Exit Program"
 
