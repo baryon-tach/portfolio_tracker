@@ -1,4 +1,4 @@
-# Basic Portfolio Tracker
+# Portfolio Tracker
 python (tkinter, re, pillow) | sqlite3
 
 ### Main Menu
@@ -8,7 +8,7 @@ python (tkinter, re, pillow) | sqlite3
 To run: python3 main.py <br />
 * If it does not work please check if you have all of the python packages installed. <br />
 
-The data that you enter into the application will be stored locally on your device in a .db file. <br />
+The data that you enter into the application will be stored locally on your device in a .db file. Note: There is no online component to this application<br />
 <br />
 There are four options to choose from: "Add Transaction", "Data", "Transfer Institution", "Exit Program"
 
