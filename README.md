@@ -7,8 +7,9 @@ python (tkinter, re, pillow) | sqlite3
 
 To run: python3 main.py <br />
 * If it does not work please check if you have all of the python packages installed. <br />
-<br />
 
+The data that you enter into the application will be stored locally on your device in a .db file. <br />
+<br />
 There are four options to choose from: "Add Transaction", "Data", "Transfer Institution", "Exit Program"
 
 *  Add Transaction is where you add your security purchase or disposed of. Once clicked there will be a window that asks if you would like more information with regards to entry requirements.
