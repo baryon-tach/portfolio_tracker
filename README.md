@@ -5,7 +5,7 @@ python (tkinter, re, pillow) | sqlite3
 
 <img src="images/Main_Menu.png" width=500>
 
-To run: python3 main.py <br />
+To run (in the console): python3 main.py <br />
 * If it does not work please check if you have all of the python packages installed. <br />
 
 The data that you enter into the application will be stored locally on your device in a .db file. Note: There is no online component to this application<br />
