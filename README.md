@@ -10,6 +10,9 @@ To run: python3 main.py <br />
 
 The data that you enter into the application will be stored locally on your device in a .db file. Note: There is no online component to this application<br />
 <br />
+Note: The photos are fake positions used to test the application and are in no way reflective of my current holdings. <br />
+<br />
+
 There are four options to choose from: "Add Transaction", "Data", "Transfer Institution", "Exit Program"
 
 *  Add Transaction is where you add your security purchase or disposed of. Once clicked there will be a window that asks if you would like more information with regards to entry requirements. 
